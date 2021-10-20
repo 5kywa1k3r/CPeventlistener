@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CPeventlistener", "CPeventlistener\CPeventlistener.csproj", "{C5A202EC-FE8A-4BBF-BCFC-C9F58DB8CC90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5A202EC-FE8A-4BBF-BCFC-C9F58DB8CC90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5A202EC-FE8A-4BBF-BCFC-C9F58DB8CC90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5A202EC-FE8A-4BBF-BCFC-C9F58DB8CC90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5A202EC-FE8A-4BBF-BCFC-C9F58DB8CC90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8236303A-A6E1-47F3-8393-2ACC27D6CBE4}
+	EndGlobalSection
+EndGlobal
